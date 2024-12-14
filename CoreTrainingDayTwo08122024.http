@@ -1,0 +1,6 @@
+@CoreTrainingDayTwo08122024_HostAddress = http://localhost:5055
+
+GET {{CoreTrainingDayTwo08122024_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
